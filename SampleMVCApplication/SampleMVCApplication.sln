@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleMVCApplication", "SampleMVCApplication\SampleMVCApplication.csproj", "{195D824B-F085-47BE-9AB8-9295982565D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleMVCApplication.Tests", "SampleMVCApplication.Tests\SampleMVCApplication.Tests.csproj", "{2365A3E2-75E8-4EB5-93B5-2B0F6ECE7EF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{195D824B-F085-47BE-9AB8-9295982565D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{195D824B-F085-47BE-9AB8-9295982565D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{195D824B-F085-47BE-9AB8-9295982565D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{195D824B-F085-47BE-9AB8-9295982565D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2365A3E2-75E8-4EB5-93B5-2B0F6ECE7EF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2365A3E2-75E8-4EB5-93B5-2B0F6ECE7EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2365A3E2-75E8-4EB5-93B5-2B0F6ECE7EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2365A3E2-75E8-4EB5-93B5-2B0F6ECE7EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
